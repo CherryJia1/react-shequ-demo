@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.91811117.chunk.css",
-    "main.js": "/static/js/main.8e87f350.chunk.js",
-    "main.js.map": "/static/js/main.8e87f350.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9008f3bb.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9008f3bb.js.map",
-    "static/css/2.d788185a.chunk.css": "/static/css/2.d788185a.chunk.css",
-    "static/js/2.48692acc.chunk.js": "/static/js/2.48692acc.chunk.js",
-    "static/js/2.48692acc.chunk.js.map": "/static/js/2.48692acc.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.d0ab777b0e9bff796972acbbe9d8bba6.js": "/precache-manifest.d0ab777b0e9bff796972acbbe9d8bba6.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.d788185a.chunk.css.map": "/static/css/2.d788185a.chunk.css.map",
-    "static/css/main.91811117.chunk.css.map": "/static/css/main.91811117.chunk.css.map",
-    "static/js/2.48692acc.chunk.js.LICENSE.txt": "/static/js/2.48692acc.chunk.js.LICENSE.txt",
-    "static/media/vue.png": "/static/media/vue.e1ea82cb.png"
+    "main.css": "/react-shequ-demo/static/css/main.e8ab0a86.chunk.css",
+    "main.js": "/react-shequ-demo/static/js/main.9b168ba7.chunk.js",
+    "main.js.map": "/react-shequ-demo/static/js/main.9b168ba7.chunk.js.map",
+    "runtime-main.js": "/react-shequ-demo/static/js/runtime-main.37b8f99b.js",
+    "runtime-main.js.map": "/react-shequ-demo/static/js/runtime-main.37b8f99b.js.map",
+    "static/css/2.d788185a.chunk.css": "/react-shequ-demo/static/css/2.d788185a.chunk.css",
+    "static/js/2.0e151a1b.chunk.js": "/react-shequ-demo/static/js/2.0e151a1b.chunk.js",
+    "static/js/2.0e151a1b.chunk.js.map": "/react-shequ-demo/static/js/2.0e151a1b.chunk.js.map",
+    "index.html": "/react-shequ-demo/index.html",
+    "precache-manifest.ff6410d32fb1114beabddb2e7b6c6e38.js": "/react-shequ-demo/precache-manifest.ff6410d32fb1114beabddb2e7b6c6e38.js",
+    "service-worker.js": "/react-shequ-demo/service-worker.js",
+    "static/css/2.d788185a.chunk.css.map": "/react-shequ-demo/static/css/2.d788185a.chunk.css.map",
+    "static/css/main.e8ab0a86.chunk.css.map": "/react-shequ-demo/static/css/main.e8ab0a86.chunk.css.map",
+    "static/js/2.0e151a1b.chunk.js.LICENSE.txt": "/react-shequ-demo/static/js/2.0e151a1b.chunk.js.LICENSE.txt",
+    "static/media/vue.png": "/react-shequ-demo/static/media/vue.e1ea82cb.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9008f3bb.js",
+    "static/js/runtime-main.37b8f99b.js",
     "static/css/2.d788185a.chunk.css",
-    "static/js/2.48692acc.chunk.js",
-    "static/css/main.91811117.chunk.css",
-    "static/js/main.8e87f350.chunk.js"
+    "static/js/2.0e151a1b.chunk.js",
+    "static/css/main.e8ab0a86.chunk.css",
+    "static/js/main.9b168ba7.chunk.js"
   ]
 }
